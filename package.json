@@ -1,0 +1,7 @@
+{
+	"dependencies": {
+		"ocaml": "4.7.0",
+		"@opam/dune": "*",
+		"@opam/disml": "*"
+	}
+}
